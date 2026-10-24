@@ -68,7 +68,7 @@ fun_fact: "I also make games in Unity and 3D models in Blender 🎮"
 
 ## 🚀 Featured projects
 
-### 🏭 SYNCRET — Industrial monitoring & control
+### 🏭 [SYNCRET](https://github.com/whoisnehir/Syncret-PROSIM-M23) — Industrial monitoring & control
 > A three-tier system that simulates, logs and monitors an industrial conveyor-belt loading process (M23) **in real time**.
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -77,13 +77,15 @@ fun_fact: "I also make games in Unity and 3D models in Blender 🎮"
 ![SQL Server 2022](https://img.shields.io/badge/SQL_Server_2022-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
+![Status](https://img.shields.io/badge/status-completed-B8E6C9?style=flat-square)
+
+⚡ *All three tiers up and running!*
 
 <details>
 <summary>✨ <b>See how it works</b></summary>
 <br/>
 
-| Tier | What it does |
+| Part | What it does |
 |------|--------------|
 | ⚙️ **PLC-style simulator** (WinForms, .NET 4.7.2) | 100 ms scan cycle, self-holding motor logic, route interlocks and a safety interlock: motors stop, an alarm beeps and the LEDs blink red when the flap sensors conflict |
 | 🗄️ **Data layer** (SQL Server 2022 in Docker) | Append-only event log + live process-state table, written asynchronously and only on state changes, so the scan cycle is never blocked |
@@ -92,21 +94,49 @@ fun_fact: "I also make games in Unity and 3D models in Blender 🎮"
 
 </details>
 
-### 🌸 rosesRrosie — Makeup e-commerce platform
-> E-commerce site for an independent makeup brand, with collections, wishlist, cart, light/dark theme and an admin panel.
+### 🌸 [rosesRrosie](https://github.com/whoisnehir/rosesRrosie) — Makeup e-commerce platform
+> E-commerce site for an independent makeup brand, built around product collections, with a soft-vintage pastel look.
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Status](https://img.shields.io/badge/status-in_progress-F8C8DC?style=flat-square)
+![Status](https://img.shields.io/badge/status-work_in_progress-F8C8DC?style=flat-square)
 
 🤖 *AI features coming soon!*
 
-### 🎧 Frequency Analyzer
-> Audio signal processing project: a frequency analyzer with a graphical interface.
+<details>
+<summary>✨ <b>See how it works</b></summary>
+<br/>
 
-![Status](https://img.shields.io/badge/status-coming_soon-B5D8F7?style=flat-square)
+| Part | What it does |
+|------|--------------|
+| 🛍️ **Shop** | Product collections, best sellers and a full catalogue |
+| 💖 **Wishlist & cart** | Save favourites and build an order |
+| 🌗 **Themes** | Light mode and a warm "Cacao" dark mode, switchable from any page |
+| 🔐 **Admin panel** | Manage collections, products, warehouses, stock and prices *(in progress)* |
+| 🔮 **Coming next** | AI features and multi-currency support |
 
-⏳ *Coming soon, stay tuned!* 🎶
+</details>
+
+### 🎧 [Frequency Analyzer](https://github.com/whoisnehir/frequency-analyzer) — Audio signal processing
+> A frequency analyzer for audio signals, with a graphical interface.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/status-work_in_progress-F8C8DC?style=flat-square)
+
+🎶 *Under construction, more coming soon!*
+
+<details>
+<summary>✨ <b>See how it works</b></summary>
+<br/>
+
+| Part | What it does |
+|------|--------------|
+| 🎛️ **Analysis** | Frequency analysis of audio signals |
+| 🖥️ **Interface** | Graphical interface with a dark theme |
+| 🛠️ **Status** | Details will be added as development progresses |
+
+</details>
 
 ---
 
@@ -123,10 +153,6 @@ fun_fact: "I also make games in Unity and 3D models in Blender 🎮"
 
 ---
 
-<div align="center">
 
-### 💌 Thanks for stopping by! Let's build something cool together ✨
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5D8F7,50:D7B9F5,100:F8C8DC&height=120&section=footer" width="100%" />
