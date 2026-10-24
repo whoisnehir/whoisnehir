@@ -110,15 +110,6 @@ fun_fact: "I also make games in Unity and 3D models in Blender 🎮"
 
 ---
 
-## 💼 Experience
-
-🏢 **Software Developer (practical training)** — ContiTech – OESL, Timișoara · *Apr – Jul 2026*
-- 👩‍💻 Built a web application in a 3-person team: Flask (Python) backend, HTML/CSS/JavaScript frontend
-- 🔄 Wrote pandas scripts to migrate Excel data into SQL Server
-- 🔐 Implemented role-based access control
-
----
-
 ## 📊 GitHub stats
 
 <div align="center">
