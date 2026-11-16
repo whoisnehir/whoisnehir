@@ -9,7 +9,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nehir_Irey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehir-irey)
 [![GitHub](https://img.shields.io/badge/GitHub-whoisnehir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whoisnehir)
-![Profile views](https://komarev.com/ghpvc/?username=whoisnehir&color=d7b9f5&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -39,7 +38,6 @@ fun_fact: "I also make games in Unity and 3D models in Blender 🎮"
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
@@ -144,15 +142,8 @@ fun_fact: "I also make games in Unity and 3D models in Blender 🎮"
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=whoisnehir&show_icons=true&hide_border=true&bg_color=FFF5FA&title_color=C77DBA&icon_color=D7B9F5&text_color=4A3B52" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisnehir&layout=compact&hide_border=true&bg_color=FFF5FA&title_color=C77DBA&text_color=4A3B52" />
-
 <img src="https://streak-stats.demolab.com?user=whoisnehir&hide_border=true&background=FFF5FA&ring=C77DBA&fire=F8A5C2&currStreakLabel=C77DBA&sideLabels=4A3B52&currStreakNum=4A3B52&sideNums=4A3B52&dates=8A7A92" />
 
 </div>
-
----
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5D8F7,50:D7B9F5,100:F8C8DC&height=120&section=footer" width="100%" />
