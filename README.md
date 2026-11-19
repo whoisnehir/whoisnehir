@@ -92,6 +92,32 @@ fun_fact: "I also make games in Unity and 3D models in Blender 🎮"
 
 </details>
 
+### 🌡️ [Temperature Controller](https://github.com/whoisnehir/temperature-control-embedded) — Embedded system
+> An on/off temperature controller on an Arduino Uno (ATmega328P): it heats up to a user-defined set point, then runs a timed cooling phase.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![ATmega328P](https://img.shields.io/badge/ATmega328P-7F77DD?style=flat-square)
+![Wokwi](https://img.shields.io/badge/Wokwi-22B5BF?style=flat-square)
+![Status](https://img.shields.io/badge/status-completed-B8E6C9?style=flat-square)
+
+🔥 *Built on real hardware, also runs in the browser with Wokwi!*
+
+<details>
+<summary>✨ <b>See how it works</b></summary>
+<br/>
+
+| Part | What it does |
+|------|--------------|
+| ⏱️ **Timer & interrupts** | Timer1 configured at register level in CTC mode for an exact 1 Hz interrupt; the ISR only sets a flag, so timing never relies on blocking `delay()` calls |
+| 🔁 **Control logic** | Finite state machine with menu and run modes and Heat → Cool → Done phases; BACK aborts a cycle and the heater is always off in the menu |
+| 🌡️ **Measurement** | LM35 sensor read through the 10-bit ADC, 32 samples averaged and converted to °C |
+| 💡 **Power switching** | A TIP31C transistor switches an incandescent bulb used as the heater, on a separate battery supply |
+| 🎛️ **Interface** | 16x2 I2C LCD menu with four buttons to set the set point (10–80 °C) and the cooling time |
+| 📝 **Documentation** | State diagram, wiring table and a browser-runnable Wokwi simulation |
+
+</details>
+
 ### 🌸 [rosesRrosie](https://github.com/whoisnehir/rosesRrosie) — Makeup e-commerce platform
 > E-commerce site for an independent makeup brand, built around product collections, with a soft-vintage pastel look.
 
