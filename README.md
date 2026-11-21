@@ -22,8 +22,7 @@ location: Timișoara, Romania 🇷🇴
 studying: Automation & Computer Science @ Politehnica University of Timișoara (4th year)
 currently_building:
   - rosesRrosie   # makeup e-commerce, Spring Boot + React 🌸
-currently_learning: [TypeScript, React, GitHub Actions, CI/CD, pytest, xUnit/NUnit]
-looking_for: [DevOps, ML/AI, Backend, Frontend]
+currently_learning: [TypeScript, xUnit/NUnit]
 fun_fact: "I also make games in Unity and 3D models in Blender 🎮"
 ```
 
@@ -36,6 +35,7 @@ fun_fact: "I also make games in Unity and 3D models in Blender 🎮"
 ### 💻 Languages
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -118,6 +118,37 @@ fun_fact: "I also make games in Unity and 3D models in Blender 🎮"
 
 </details>
 
+### 🎧 [Frequency Analyzer](https://github.com/whoisnehir/frequency-analyzer) — Audio signal processing
+> A desktop app that opens a WAV file and shows its waveform, frequency spectrum and spectrogram, using the Fourier transform.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat-square)
+![tkinter](https://img.shields.io/badge/tkinter-3776AB?style=flat-square)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Status](https://img.shields.io/badge/status-completed-B8E6C9?style=flat-square)
+
+🎶 *Open a WAV file and watch its frequencies come to life!*
+
+<details>
+<summary>✨ <b>See how it works</b></summary>
+<br/>
+
+| Part | What it does |
+|------|--------------|
+| 📂 **Audio loading** | Reads WAV files, mixes stereo to mono and normalizes samples to −1…1; missing, unreadable or non-WAV files get a clear error message |
+| 🎛️ **Spectrum** | Removes the DC offset, applies a Hann window, runs the FFT (SciPy) and scales the result to amplitudes; shows the dominant frequency in Hz |
+| 📈 **Waveform** | Plots the signal's amplitude over time |
+| 🌈 **Spectrogram** | Repeats the FFT on 50 ms chunks every 25 ms to show how the frequencies change over time |
+| 🔊 **Decibel view** | One checkbox switches the spectrum and spectrogram to a dB scale (−120 … 0 dBFS) |
+| 🖥️ **Interface** | tkinter window with a file dialog, all three plots and a toolbar to zoom, pan and save; also starts from the command line with `python -m frequency_analyzer [file.wav]` |
+| ✅ **Quality** | src layout with `pyproject.toml`, ruff and pytest run by GitHub Actions on every pull request (GUI tests included), work tracked with issues, milestones and a project board |
+
+</details>
+
 ### 🌸 [rosesRrosie](https://github.com/whoisnehir/rosesRrosie) — Makeup e-commerce platform
 > E-commerce site for an independent makeup brand, built around product collections, with a soft-vintage pastel look.
 
@@ -139,26 +170,6 @@ fun_fact: "I also make games in Unity and 3D models in Blender 🎮"
 | 🌗 **Themes** | Light mode and a warm "Cacao" dark mode, switchable from any page |
 | 🔐 **Admin panel** | Manage collections, products, warehouses, stock and prices *(in progress)* |
 | 🔮 **Coming next** | AI features and multi-currency support |
-
-</details>
-
-### 🎧 [Frequency Analyzer](https://github.com/whoisnehir/frequency-analyzer) — Audio signal processing
-> A frequency analyzer for audio signals, with a graphical interface.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/status-work_in_progress-F8C8DC?style=flat-square)
-
-🎶 *Under construction, more coming soon!*
-
-<details>
-<summary>✨ <b>See how it works</b></summary>
-<br/>
-
-| Part | What it does |
-|------|--------------|
-| 🎛️ **Analysis** | Frequency analysis of audio signals |
-| 🖥️ **Interface** | Graphical interface with a dark theme |
-| 🛠️ **Status** | Details will be added as development progresses |
 
 </details>
 
