@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DBA&center=true&vCenter=true&width=600&lines=Automation+%26+Computer+Science+student+%40+UPT;Full-stack+developer+%E2%9C%A8;Moving+toward+DevOps%2C+ML+%26+AI+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DBA&center=true&vCenter=true&width=600&lines=Automation+%26+Computer+Science+student+%40+UPT;Full-stack+developer;Moving+toward+DevOps%2C+ML+%26+AI;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 
 <br/>
 
@@ -18,56 +18,40 @@
 
 ```yaml
 name: Nehir Irey
-location: Timișoara, Romania 🇷🇴
+location: Timișoara, Romania
 studying: Automation & Computer Science @ Politehnica University of Timișoara (4th year)
 currently_building:
-  - rosesRrosie   # makeup e-commerce, Spring Boot + React 🌸
+  - rosesRrosie   # makeup e-commerce, Spring Boot + React
 currently_learning: [TypeScript, xUnit/NUnit]
-fun_fact: "I also make games in Unity and 3D models in Blender 🎮"
+fun_fact: "I also make games in Unity and 3D models in Blender"
 ```
 
 ---
 
 ## 🎨 Tech stack
 
-<div align="center">
-
-### 💻 Languages
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### 🧩 Frameworks & libraries
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-</div>
+| | |
+|---|---|
+| **Languages** | ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
+| **Frameworks & libraries** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) |
 
 ---
 
 ## 🚀 Featured projects
 
+| Project | What it is | Status |
+|---------|------------|--------|
+| [SYNCRET](https://github.com/whoisnehir/Syncret-PROSIM-M23) | Real-time industrial monitoring & control | ![Status](https://img.shields.io/badge/completed-B8E6C9?style=flat-square) |
+| [Temperature Controller](https://github.com/whoisnehir/temperature-control-embedded) | Embedded system on Arduino | ![Status](https://img.shields.io/badge/completed-B8E6C9?style=flat-square) |
+| [Frequency Analyzer](https://github.com/whoisnehir/frequency-analyzer) | Audio signal processing desktop app | ![Status](https://img.shields.io/badge/completed-B8E6C9?style=flat-square) |
+| [rosesRrosie](https://github.com/whoisnehir/rosesRrosie) | Makeup e-commerce platform | ![Status](https://img.shields.io/badge/work_in_progress-F8C8DC?style=flat-square) |
+
+<br/>
+
 ### 🏭 [SYNCRET](https://github.com/whoisnehir/Syncret-PROSIM-M23) — Industrial monitoring & control
-> A three-tier system that simulates, logs and monitors an industrial conveyor-belt loading process (M23) **in real time**.
+
+A three-tier system that simulates, logs and monitors an industrial conveyor-belt loading process (M23) **in real time**. All three tiers are up and running.
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core 8](https://img.shields.io/badge/ASP.NET_Core_8-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
@@ -75,51 +59,51 @@ fun_fact: "I also make games in Unity and 3D models in Blender 🎮"
 ![SQL Server 2022](https://img.shields.io/badge/SQL_Server_2022-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Status](https://img.shields.io/badge/status-completed-B8E6C9?style=flat-square)
-
-⚡ *All three tiers up and running!*
 
 <details>
-<summary>✨ <b>See how it works</b></summary>
+<summary><b>See how it works</b></summary>
 <br/>
 
 | Part | What it does |
 |------|--------------|
-| ⚙️ **PLC-style simulator** (WinForms, .NET 4.7.2) | 100 ms scan cycle, self-holding motor logic, route interlocks and a safety interlock: motors stop, an alarm beeps and the LEDs blink red when the flap sensors conflict |
-| 🗄️ **Data layer** (SQL Server 2022 in Docker) | Append-only event log + live process-state table, written asynchronously and only on state changes, so the scan cycle is never blocked |
-| 🔌 **REST API + real time** (ASP.NET Core 8) | Minimal API with filtered, paginated logs and hourly statistics; a SignalR hub pushes the live process state every second |
-| 📊 **Web dashboard** (React + Vite) | Live belt status, animated alarm banner, filterable event history and stacked hourly event charts |
+| **PLC-style simulator** (WinForms, .NET 4.7.2) | 100 ms scan cycle, self-holding motor logic, route interlocks and a safety interlock: motors stop, an alarm beeps and the LEDs blink red when the flap sensors conflict |
+| **Data layer** (SQL Server 2022 in Docker) | Append-only event log + live process-state table, written asynchronously and only on state changes, so the scan cycle is never blocked |
+| **REST API + real time** (ASP.NET Core 8) | Minimal API with filtered, paginated logs and hourly statistics; a SignalR hub pushes the live process state every second |
+| **Web dashboard** (React + Vite) | Live belt status, animated alarm banner, filterable event history and stacked hourly event charts |
 
 </details>
 
+<br/>
+
 ### 🌡️ [Temperature Controller](https://github.com/whoisnehir/temperature-control-embedded) — Embedded system
-> An on/off temperature controller on an Arduino Uno (ATmega328P): it heats up to a user-defined set point, then runs a timed cooling phase.
+
+An on/off temperature controller on an Arduino Uno (ATmega328P): it heats up to a user-defined set point, then runs a timed cooling phase. Built on real hardware, and it also runs in the browser with Wokwi.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![ATmega328P](https://img.shields.io/badge/ATmega328P-7F77DD?style=flat-square)
 ![Wokwi](https://img.shields.io/badge/Wokwi-22B5BF?style=flat-square)
-![Status](https://img.shields.io/badge/status-completed-B8E6C9?style=flat-square)
-
-🔥 *Built on real hardware, also runs in the browser with Wokwi!*
 
 <details>
-<summary>✨ <b>See how it works</b></summary>
+<summary><b>See how it works</b></summary>
 <br/>
 
 | Part | What it does |
 |------|--------------|
-| ⏱️ **Timer & interrupts** | Timer1 configured at register level in CTC mode for an exact 1 Hz interrupt; the ISR only sets a flag, so timing never relies on blocking `delay()` calls |
-| 🔁 **Control logic** | Finite state machine with menu and run modes and Heat → Cool → Done phases; BACK aborts a cycle and the heater is always off in the menu |
-| 🌡️ **Measurement** | LM35 sensor read through the 10-bit ADC, 32 samples averaged and converted to °C |
-| 💡 **Power switching** | A TIP31C transistor switches an incandescent bulb used as the heater, on a separate battery supply |
-| 🎛️ **Interface** | 16x2 I2C LCD menu with four buttons to set the set point (10–80 °C) and the cooling time |
-| 📝 **Documentation** | State diagram, wiring table and a browser-runnable Wokwi simulation |
+| **Timer & interrupts** | Timer1 configured at register level in CTC mode for an exact 1 Hz interrupt; the ISR only sets a flag, so timing never relies on blocking `delay()` calls |
+| **Control logic** | Finite state machine with menu and run modes and Heat → Cool → Done phases; BACK aborts a cycle and the heater is always off in the menu |
+| **Measurement** | LM35 sensor read through the 10-bit ADC, 32 samples averaged and converted to °C |
+| **Power switching** | A TIP31C transistor switches an incandescent bulb used as the heater, on a separate battery supply |
+| **Interface** | 16x2 I2C LCD menu with four buttons to set the set point (10–80 °C) and the cooling time |
+| **Documentation** | State diagram, wiring table and a browser-runnable Wokwi simulation |
 
 </details>
 
+<br/>
+
 ### 🎧 [Frequency Analyzer](https://github.com/whoisnehir/frequency-analyzer) — Audio signal processing
-> A desktop app that opens a WAV file and shows its waveform, frequency spectrum and spectrogram, using the Fourier transform.
+
+A desktop app that opens a WAV file and shows its waveform, frequency spectrum and spectrogram, using the Fourier transform.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -129,47 +113,44 @@ fun_fact: "I also make games in Unity and 3D models in Blender 🎮"
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Status](https://img.shields.io/badge/status-completed-B8E6C9?style=flat-square)
-
-🎶 *Open a WAV file and watch its frequencies come to life!*
 
 <details>
-<summary>✨ <b>See how it works</b></summary>
+<summary><b>See how it works</b></summary>
 <br/>
 
 | Part | What it does |
 |------|--------------|
-| 📂 **Audio loading** | Reads WAV files, mixes stereo to mono and normalizes samples to −1…1; missing, unreadable or non-WAV files get a clear error message |
-| 🎛️ **Spectrum** | Removes the DC offset, applies a Hann window, runs the FFT (SciPy) and scales the result to amplitudes; shows the dominant frequency in Hz |
-| 📈 **Waveform** | Plots the signal's amplitude over time |
-| 🌈 **Spectrogram** | Repeats the FFT on 50 ms chunks every 25 ms to show how the frequencies change over time |
-| 🔊 **Decibel view** | One checkbox switches the spectrum and spectrogram to a dB scale (−120 … 0 dBFS) |
-| 🖥️ **Interface** | tkinter window with a file dialog, all three plots and a toolbar to zoom, pan and save; also starts from the command line with `python -m frequency_analyzer [file.wav]` |
-| ✅ **Quality** | src layout with `pyproject.toml`, ruff and pytest run by GitHub Actions on every pull request (GUI tests included), work tracked with issues, milestones and a project board |
+| **Audio loading** | Reads WAV files, mixes stereo to mono and normalizes samples to −1…1; missing, unreadable or non-WAV files get a clear error message |
+| **Spectrum** | Removes the DC offset, applies a Hann window, runs the FFT (SciPy) and scales the result to amplitudes; shows the dominant frequency in Hz |
+| **Waveform** | Plots the signal's amplitude over time |
+| **Spectrogram** | Repeats the FFT on 50 ms chunks every 25 ms to show how the frequencies change over time |
+| **Decibel view** | One checkbox switches the spectrum and spectrogram to a dB scale (−120 … 0 dBFS) |
+| **Interface** | tkinter window with a file dialog, all three plots and a toolbar to zoom, pan and save; also starts from the command line with `python -m frequency_analyzer [file.wav]` |
+| **Quality** | src layout with `pyproject.toml`, ruff and pytest run by GitHub Actions on every pull request (GUI tests included), work tracked with issues, milestones and a project board |
 
 </details>
 
+<br/>
+
 ### 🌸 [rosesRrosie](https://github.com/whoisnehir/rosesRrosie) — Makeup e-commerce platform
-> E-commerce site for an independent makeup brand, built around product collections, with a soft-vintage pastel look.
+
+E-commerce site for an independent makeup brand, built around product collections, with a soft-vintage pastel look. AI features are coming soon.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Status](https://img.shields.io/badge/status-work_in_progress-F8C8DC?style=flat-square)
-
-🤖 *AI features coming soon!*
 
 <details>
-<summary>✨ <b>See how it works</b></summary>
+<summary><b>See how it works</b></summary>
 <br/>
 
 | Part | What it does |
 |------|--------------|
-| 🛍️ **Shop** | Product collections, best sellers and a full catalogue |
-| 💖 **Wishlist & cart** | Save favourites and build an order |
-| 🌗 **Themes** | Light mode and a warm "Cacao" dark mode, switchable from any page |
-| 🔐 **Admin panel** | Manage collections, products, warehouses, stock and prices *(in progress)* |
-| 🔮 **Coming next** | AI features and multi-currency support |
+| **Shop** | Product collections, best sellers and a full catalogue |
+| **Wishlist & cart** | Save favourites and build an order |
+| **Themes** | Light mode and a warm "Cacao" dark mode, switchable from any page |
+| **Admin panel** | Manage collections, products, warehouses, stock and prices *(in progress)* |
+| **Coming next** | AI features and multi-currency support |
 
 </details>
 
