@@ -44,6 +44,7 @@ fun_fact: "I also make games in Unity and 3D models in Blender"
 |---------|------------|--------|
 | [SYNCRET](https://github.com/whoisnehir/Syncret-PROSIM-M23) | Real-time industrial monitoring & control | ![Status](https://img.shields.io/badge/completed-B8E6C9?style=flat-square) |
 | [Temperature Controller](https://github.com/whoisnehir/temperature-control-embedded) | Embedded system on Arduino | ![Status](https://img.shields.io/badge/completed-B8E6C9?style=flat-square) |
+| [Arduino Snake](https://github.com/whoisnehir/snake-game) | Hardware game on an 8x8 LED matrix | ![Status](https://img.shields.io/badge/completed-B8E6C9?style=flat-square) |
 | [Frequency Analyzer](https://github.com/whoisnehir/frequency-analyzer) | Audio signal processing desktop app | ![Status](https://img.shields.io/badge/completed-B8E6C9?style=flat-square) |
 | [rosesRrosie](https://github.com/whoisnehir/rosesRrosie) | Makeup e-commerce platform | ![Status](https://img.shields.io/badge/work_in_progress-F8C8DC?style=flat-square) |
 
@@ -96,6 +97,30 @@ An on/off temperature controller on an Arduino Uno (ATmega328P): it heats up to 
 | **Power switching** | A TIP31C transistor switches an incandescent bulb used as the heater, on a separate battery supply |
 | **Interface** | 16x2 I2C LCD menu with four buttons to set the set point (10–80 °C) and the cooling time |
 | **Documentation** | State diagram, wiring table and a browser-runnable Wokwi simulation |
+
+</details>
+
+<br/>
+
+### 🐍 [Arduino Snake](https://github.com/whoisnehir/snake-game) — Hardware game
+
+Snake on an Arduino Uno, played on a bare 8x8 LED matrix with an analog joystick. The matrix has no driver chip, so the Arduino drives all 16 lines directly, with no external libraries.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![ATmega328P](https://img.shields.io/badge/ATmega328P-7F77DD?style=flat-square)
+
+<details>
+<summary><b>See how it works</b></summary>
+<br/>
+
+| Part | What it does |
+|------|--------------|
+| **Hardware** | Unmarked 16-pin LED matrix whose pinout was identified experimentally; all 16 lines plus 2 joystick axes fit on the Uno's 18 free I/O pins |
+| **Display** | Software multiplexing from an 8x8 frame buffer: one LED is lit at a time, redrawn hundreds of times per second, so each pin stays within its current limit (≈ 13.6 mA) |
+| **Input** | Joystick read through the ADC with a dead zone; reversing into the snake's own neck is blocked and the next direction is buffered until the next move |
+| **Game logic** | State machine (Waiting → Playing → Game over), wall and self-collision checks, random food placement and a speed that increases as the snake grows |
+| **Timing** | Non-blocking main loop based on `millis()`, with no `delay()`, so the display and the joystick are handled continuously |
 
 </details>
 
